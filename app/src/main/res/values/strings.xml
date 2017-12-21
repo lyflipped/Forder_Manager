@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lucene_Ly</string>
+    <string name="data_dir_hint">select your data dirctory</string>
+    <string name="index_dir_hint">select your index dirctory</string>
+    <string name="select_data_dir">select dir</string>
+    <string name="select_index_dir">select index</string>
+    <string name="input_dir_name">input dir_name</string>
+    <string name="cur_dir">cur_dir</string>
+    <string name="root_dir">root_dir</string>
+    <string name="createIndex">create index</string>
+</resources>
